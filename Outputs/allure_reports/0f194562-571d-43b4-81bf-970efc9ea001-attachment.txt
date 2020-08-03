@@ -1,0 +1,17 @@
+[32mINFO    [0m Common.basepage:basepage.py:31 等待元素('css selector', '.forget-password')可见
+[32mINFO    [0m Common.basepage:basepage.py:41 登录页面_忘记密码:元素('css selector', '.forget-password')已可见，等待起始时间：2020-08-01 13:24:24.878989，等待结束时间：2020-08-01 13:24:24.891954等待时长为：0
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('css selector', '.forget-password')
+[32mINFO    [0m Common.basepage:basepage.py:70 登录页面_忘记密码 点击元素：('css selector', '.forget-password')
+[32mINFO    [0m Common.basepage:basepage.py:31 等待元素('xpath', '//label[@for="phoneNumber"]/following-sibling::div/div/input')可见
+[32mINFO    [0m Common.basepage:basepage.py:41 登录页面_忘记密码:元素('xpath', '//label[@for="phoneNumber"]/following-sibling::div/div/input')已可见，等待起始时间：2020-08-01 13:24:24.943817，等待结束时间：2020-08-01 13:24:24.972747等待时长为：0
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('xpath', '//label[@for="phoneNumber"]/following-sibling::div/div/input')
+[32mINFO    [0m Common.basepage:basepage.py:98 登录页面_忘记密码 元素输入：('xpath', '//label[@for="phoneNumber"]/following-sibling::div/div/input')
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('xpath', '//label[@for="code"]/following-sibling::div/div/input')
+[32mINFO    [0m Common.basepage:basepage.py:98 登录页面_忘记密码 元素输入：('xpath', '//label[@for="code"]/following-sibling::div/div/input')
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('xpath', ' //span[text()="下一步"]')
+[32mINFO    [0m Common.basepage:basepage.py:70 登录页面_忘记密码 点击元素：('xpath', ' //span[text()="下一步"]')
+[32mINFO    [0m Common.basepage:basepage.py:31 等待元素('css selector', '.el-message__content')可见
+[32mINFO    [0m Common.basepage:basepage.py:41 登录页面_忘记密码_错误提示:元素('css selector', '.el-message__content')已可见，等待起始时间：2020-08-01 13:24:25.377655，等待结束时间：2020-08-01 13:24:25.906242等待时长为：0
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('css selector', '.el-message__content')
+[32mINFO    [0m Common.basepage:basepage.py:113 登录页面_忘记密码_错误提示 获取元素：('css selector', '.el-message__content')的文本内容
+[32mINFO    [0m conftest:conftest.py:34 ======每一个用例后置：刷新当前页面======

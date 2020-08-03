@@ -1,0 +1,13 @@
+[32mINFO    [0m Common.basepage:basepage.py:31 等待元素('xpath', '//*[@class="el-input__inner" and @placeholder="请输入账号名"]')可见
+[32mINFO    [0m Common.basepage:basepage.py:41 登录页面_登录功能:元素('xpath', '//*[@class="el-input__inner" and @placeholder="请输入账号名"]')已可见，等待起始时间：2020-08-01 13:24:12.211890，等待结束时间：2020-08-01 13:24:12.226822等待时长为：0
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('xpath', '//*[@class="el-input__inner" and @placeholder="请输入账号名"]')
+[32mINFO    [0m Common.basepage:basepage.py:84 登录页面_登录功能 元素输入：('xpath', '//*[@class="el-input__inner" and @placeholder="请输入账号名"]')
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('xpath', '//*[@class="el-input__inner" and @placeholder="请输入密码"]')
+[32mINFO    [0m Common.basepage:basepage.py:84 登录页面_登录功能 元素输入：('xpath', '//*[@class="el-input__inner" and @placeholder="请输入密码"]')
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('xpath', '//div[@class="login-btn"]/button')
+[32mINFO    [0m Common.basepage:basepage.py:70 登录页面_登录功能 点击元素：('xpath', '//div[@class="login-btn"]/button')
+[32mINFO    [0m Common.basepage:basepage.py:31 等待元素('xpath', '//p[@class="el-message__content"]')可见
+[32mINFO    [0m Common.basepage:basepage.py:41 登录页面_获取错误提示信息:元素('xpath', '//p[@class="el-message__content"]')已可见，等待起始时间：2020-08-01 13:24:12.476159，等待结束时间：2020-08-01 13:24:13.003746等待时长为：0
+[32mINFO    [0m Common.basepage:basepage.py:56 查找元素：('xpath', '//p[@class="el-message__content"]')
+[32mINFO    [0m Common.basepage:basepage.py:113 登录页面_获取错误提示信息 获取元素：('xpath', '//p[@class="el-message__content"]')的文本内容
+[32mINFO    [0m conftest:conftest.py:34 ======每一个用例后置：刷新当前页面======
